@@ -1,8 +1,6 @@
 # OSVESNOZ
 
-<p align="center">
-  <img src="logo.jpg" width="260">
-</p>
+<img src="IMG_6083.jpeg" width="260">
 
 ### Automated protection toolkit
 
